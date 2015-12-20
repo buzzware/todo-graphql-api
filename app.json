@@ -1,0 +1,6 @@
+{
+  "name": "Rails GraqhQL",
+  "description": "A todo api for use with the ember-graphql-adapter",
+  "repository": "https://github.com/alphasights/todo-graphql",
+  "keywords": ["graphql", "rails", "ember"]
+}
